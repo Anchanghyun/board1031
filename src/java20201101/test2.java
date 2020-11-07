@@ -43,9 +43,4 @@ public class test2 {
 		
 	}
 }
-class Article{
-	int id;
-	String title;
-	String body;
-}
 
